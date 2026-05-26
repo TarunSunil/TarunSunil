@@ -1,6 +1,6 @@
 # Hey, I'm Tarun 👋
 
-Final-year CS student @ SRM Institute · Data Engineering Intern @ Accenture
+CS grad @ SRM Institute · Data Engineering Intern @ Accenture
 
 Building systems that process, serve, and scale.
 
