@@ -8,7 +8,7 @@
 
 **AI Engineer · Software Developer · Data Engineering**
 
-CS grad @ SRM Institute of Science and Technology, 2026
+CS undergrad @ SRM Institute of Science and Technology, 2026
 Former Data Engineering Intern @ Accenture
 
 
