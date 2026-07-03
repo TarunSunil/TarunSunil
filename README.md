@@ -42,7 +42,7 @@ Systems        CMake  ·  vcpkg  ·  LibRaw  ·  OpenCV
 
 | Project | Description | Stack |
 |---|---|---|
-| [**LumenForge**](https://github.com/TarunSunil/LumenForge) | C++/Qt6 desktop photo editor with ONNX Runtime AI inference, raw file support via LibRaw, and GPU-accelerated processing via OpenCV | C++17 · Qt6 · ONNX · LibRaw · OpenCV · CMake |
+| [**LumenForge**]([https://github.com/TarunSunil/LumenForge](https://github.com/TarunSunil/photoshop)) | C++/Qt6 desktop photo editor with ONNX Runtime AI inference, raw file support via LibRaw, and GPU-accelerated processing via OpenCV | C++17 · Qt6 · ONNX · LibRaw · OpenCV · CMake |
 | [**FYI — Personal Memory OS**](https://github.com/TarunSunil/le-mem) | AI memory system with hand-rolled RAG, tool-calling agent loop, pgvector semantic search, and nightly consolidation cron. Deployed on Vercel + Supabase. | Next.js · pgvector · Gemini · Supabase · Prisma |
 | [**Retail Sales Intelligence Platform**](#) | End-to-end data engineering platform built solo during Accenture internship. Medallion architecture (Bronze → Silver → Gold) on Azure Databricks with 18 DQ checks, Delta Lake, and AI/BI dashboards. | PySpark · Delta Lake · Databricks SQL · Unity Catalog |
 | [**AI Travel Planner**](https://ai-travel-planner-seven-flax.vercel.app) | Gemini-powered travel planner with live Amadeus flight + hotel search, itinerary generation, and budget optimisation | Flask · Gemini · Amadeus API · SQLite · Vercel |
